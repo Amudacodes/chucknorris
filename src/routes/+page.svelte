@@ -29,7 +29,7 @@
 
 <div class="w-full h-[100vh] bg-[#d3cefc] flex justify-center items-center">
         <div class="flex flex-col shadow-md h-[20rem] w-[20rem] rounded-md bg-white p-4">
-            <h1 class="text-black text-center text-4xl">Chuck Norris</h1>
+            <h1 class="text-black text-center text-4xl">Chuck Amuda's Jokes</h1>
 
             <div class="flex flex-col gap-4 h-[18rem] overflow-auto">
                 {#each jokes as joke}
