@@ -14,7 +14,7 @@
 
         jokes=[joke.data]
 
-        console.log(jokes);
+        // console.log(jokes);
     })
 
     let refresh = setInterval(async()=>{
@@ -39,3 +39,7 @@
             </div>
         </div>
 </div>
+
+
+
+
